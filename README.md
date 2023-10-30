@@ -1,21 +1,28 @@
 # dictionary_app_1110
 
-A new Flutter project.
+ This is my very first application - build by Flutter (Bloc).
 
-## Getting Started
+ There are two screens:
+- Main Page: 
+  + AppBar: with Searching Bar and Chat Page Button.
+  + ListView: showing words. (Tap to view detail).
+  + Bottom Navigation Bar: History Bottom Sheet, Favorite Bottom Sheet, Settings Bottom Sheet, Dictionaries Sheet.
 
-This project is a starting point for a Flutter application.
+- Chat Page: 
+  + AppBar: Back_To_Main_Page Button, Cleaning Button (To clean the messages).
+  + ListView: showing messages.
+  + TextField: to type the content. Sending Button (to send message). More Details Button, Check Grammar (to send message with promt).
+ 
+  There are five bottom sheets:
+- History Sheet: showing the history, Delete All button (to clean history).
+- Favorite Sheet: showing the favorite list.
+- Settings Sheet: showing the settings of the app. (In Progressing).
+- Dictionaries Sheet: showing the dictionary that user have chosen.
+- Item Detail Sheet:
+  + Header with the title (the word), with Favorite Button (click to add to Favorite List).
+  + ListView: showing the content, meanings, examples.
+  + Play Sounds Button (Tap to play sound - In progressing), Ask AI Button (Tap to ask assistant about the word), Share Button (Tap to share - In progressing).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+App Demo: https://youtu.be/2pI2Y8JRRiI?si=zvfyekNc316jpzC0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dictionaryApp
-# DictionaryApplication
-# DictionaryApplication
-# dictionaryApplication
-# dictionaryApplication
