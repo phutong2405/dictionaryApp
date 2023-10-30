@@ -1,0 +1,564 @@
+{
+  "dictionary": [
+    {
+  "word": "music",
+  "pronunciation": {
+    "ipa": "/ˈmjuːzɪk/",
+    "audio": "https://static.sfdict.com/audio/D00/D0011600.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "the art of arranging sounds in time to produce a composition with melody, harmony, and rhythm.",
+        "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion."
+      ]
+    }
+  ],
+  "examples": [
+    "She has a deep appreciation for classical music.",
+    "The band played lively music at the concert.",
+    "He studied music theory to compose his own pieces.",
+    "Listening to music is a great way to relax and unwind.",
+    "Many people find solace in the power of music during difficult times.",
+    "She has a deep appreciation for classical music.",
+    "The band played lively music at the concert.",
+    "He studied music theory to compose his own pieces.",
+    "Listening to music is a great way to relax and unwind.",
+    "Many people find solace in the power of music during difficult times."
+  ]
+}
+,
+    {
+  "word": "computer",
+  "pronunciation": {
+    "ipa": "/kəmˈpjuːtər/",
+    "audio": "https://static.sfdict.com/audio/C00/C0050900.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["an electronic device for processing and storing data."]
+    }
+  ],
+  "examples": [
+    "I use a computer for work.",
+    "She's an expert at troubleshooting computer problems.",
+    "Computers have revolutionized many industries."
+  ]
+}
+,
+{
+  "word": "telephone",
+  "pronunciation": {
+    "ipa": "/ˈtɛlɪfoʊn/",
+    "audio": "https://static.sfdict.com/audio/T00/T0026800.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["a system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals."]
+    }
+  ],
+  "examples": [
+    "Before smartphones, people used landline telephones.",
+    "He dialed her number on the telephone.",
+    "Telephones made communication more convenient."
+  ]
+}
+,{
+  "word": "television",
+  "pronunciation": {
+    "ipa": "/ˈtɛlɪˌvɪʒən/",
+    "audio": "https://static.sfdict.com/audio/T00/T0045100.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["a system for transmitting visual images and sound that are reproduced on screens."]
+    }
+  ],
+  "examples": [
+    "I watch the news on television every evening.",
+    "Television shows and movies offer a wide range of entertainment.",
+    "The invention of television changed the way people receive information."
+  ]
+}
+,{
+  "word": "language",
+  "pronunciation": {
+    "ipa": "/ˈlæŋɡwɪdʒ/",
+    "audio": "https://static.sfdict.com/audio/L00/L0010200.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way."]
+    }
+  ],
+  "examples": [
+    "Learning a new language can open up opportunities for travel and cultural exchange.",
+    "Language is a powerful tool for expressing thoughts and emotions.",
+    "There are thousands of languages spoken around the world."
+  ]
+}
+,{
+  "word": "color",
+  "pronunciation": {
+    "ipa": "/ˈkʌlər/",
+    "audio": "https://static.sfdict.com/audio/C00/C0031200.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["the visual perception of different wavelengths of light as they interact with the human eye."]
+    }
+  ],
+  "examples": [
+    "Blue is my favorite color.",
+    "The artist used a variety of colors in the painting.",
+    "Color can be used to convey mood and emotion in art."
+  ]
+}
+,{
+  "word": "book",
+  "pronunciation": {
+    "ipa": "/bʊk/",
+    "audio": "https://static.sfdict.com/audio/B00/B0014500.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["a written or printed work consisting of pages glued or sewn together along one side and bound in covers."]
+    }
+  ],
+  "examples": [
+    "I enjoy reading a good book in the evening.",
+    "The library is a great place to find a wide selection of books.",
+    "Books are a valuable source of knowledge and entertainment."
+  ]
+},{
+  "word": "time",
+  "pronunciation": {
+    "ipa": "/taɪm/",
+    "audio": "https://static.sfdict.com/audio/T00/T0001800.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["a nonspatial continuum that is measured in terms of events which succeed one another from past through present to future."]
+    }
+  ],
+  "examples": [
+    "Time flies when you're having fun.",
+    "We use clocks and calendars to keep track of time.",
+    "The concept of time has fascinated philosophers and scientists for centuries."
+  ]
+}
+,{
+  "word": "happy",
+  "pronunciation": {
+    "ipa": "/ˈhæpi/",
+    "audio": "https://static.sfdict.com/audio/H00/H0028800.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "adjective",
+      "values": ["1feeling or showing pleasure or contentment.","feeling or showing pleasure or contentment.","feeling or showing pleasure or contentment."]
+    },
+    {
+      "tag": "adverb",
+      "values": ["feeling or showing pleasure or contentment."]
+    }
+  ],
+  "examples": [
+    "I'm very happy today.",
+    "The sight of her children playing made her happy.",
+    "Happiness is a goal that many people strive to achieve."
+  ]
+}
+,{
+  "word": "work",
+  "pronunciation": {
+    "ipa": "/wɜːrk/",
+    "audio": "https://static.sfdict.com/audio/W00/W0053500.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": ["activity involving mental or physical effort done in order to achieve a purpose or result."]
+    }
+  ],
+  "examples": [
+    "I have a lot of work to do.",
+    "Teamwork is essential to complete the project on time.",
+    "Work is a central part of many people's lives."
+  ]
+}
+
+,{
+  "word": "school",
+  "pronunciation": {
+    "ipa": "/skuːl/",
+    "audio": "https://static.sfdict.com/audio/S00/S0044600.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a place where children go to receive education.",
+        "an institution where instruction is given, especially to persons under college age."
+      ]
+    },
+    {
+      "tag": "verb",
+      "values": [
+        "to educate in or as if in a school; teach; train."
+      ]
+    }
+  ],
+  "examples": [
+    "He goes to school every day."
+  ]
+}
+,{
+  "word": "time",
+  "pronunciation": {
+    "ipa": "/taɪm/",
+    "audio": "https://static.sfdict.com/audio/T00/T0002200.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "the indefinite continued progress of existence and events in the past, present, and future regarded as a whole."
+      ]
+    }
+  ],
+  "examples": [
+    "Time flies when you're having fun."
+  ]
+}
+,{
+  "word": "friend",
+  "pronunciation": {
+    "ipa": "/frend/",
+    "audio": "https://static.sfdict.com/audio/F00/F0040400.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a person whom one knows and with whom one has a bond of mutual affection."
+      ]
+    }
+  ],
+  "examples": [
+    "I consider him my best friend."
+  ]
+}
+,{
+  "word": "love",
+  "pronunciation": {
+    "ipa": "/ləv/",
+    "audio": "https://static.sfdict.com/audio/L00/L0031700.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "verb",
+      "values": [
+        "to have a strong feeling of affection for someone or something."
+      ]
+    },
+    {
+      "tag": "noun",
+      "values": [
+        "a deep feeling of affection and care for another person."
+      ]
+    }
+  ],
+  "examples": [
+    "I love my family and friends.",
+    "She is the love of my life."
+  ]
+}
+,
+{
+  "word": "cat",
+  "pronunciation": {
+    "ipa": "/kæt/",
+    "audio": "https://static.sfdict.com/audio/C00/C0002700.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a small, furry mammal with four legs, a long tail, a small head, and whiskers. Cats are often kept as pets."
+      ]
+    }
+  ],
+  "examples": [
+    "I have a cat named Mittens.",
+    "Cats are very popular pets."
+  ]
+}
+,
+{
+  "word": "dog",
+  "pronunciation": {
+    "ipa": "/dɔg/",
+    "audio": "https://static.sfdict.com/audio/D00/D0003500.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a four-legged mammal with fur, a long tail, and a wagging tail. Dogs are often kept as pets and are used for working purposes such as hunting and shepherding."
+      ]
+    }
+  ],
+  "examples": [
+    "I have a dog named Buddy.",
+    "Dogs are often called man's best friend."
+  ]
+},{
+  "word": "house",
+  "pronunciation": {
+    "ipa": "/haʊs/",
+    "audio": "https://static.sfdict.com/audio/H00/H0035400.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a building for human habitation, especially one that is lived in by a single family."
+      ]
+    }
+  ],
+  "examples": [
+    "I live in a house.",
+    "The house is made of wood."
+  ]
+}
+,
+{
+  "word": "tree",
+  "pronunciation": {
+    "ipa": "/triː/",
+    "audio": "https://static.sfdict.com/audio/T00/T0006000.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a tall, woody plant with a single main trunk and branches that grow up from the ground."
+      ]
+    }
+  ],
+  "examples": [
+    "There is a tree in my yard.",
+    "The tree is tall and green."
+  ]
+}
+,
+{
+  "word": "car",
+  "pronunciation": {
+    "ipa": "/kɑːr/",
+    "audio": "https://static.sfdict.com/audio/C00/C0003300.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a four-wheeled motor vehicle that is designed to carry passengers."
+      ]
+    }
+  ],
+  "examples": [
+    "I drive a car.",
+    "The car is red."
+  ]
+}
+,
+{
+  "word": "food",
+  "pronunciation": {
+    "ipa": "/fuːd/",
+    "audio": "https://static.sfdict.com/audio/F00/F0006000.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "any substance that can be eaten and assimilated by the body to provide nourishment."
+      ]
+    }
+  ],
+  "examples": [
+    "I eat food.",
+    "The food is delicious."
+  ]
+}
+,
+{
+  "word": "person",
+  "pronunciation": {
+    "ipa": "/pɜːrˈsən/",
+    "audio": "https://static.sfdict.com/audio/P00/P0002000.mp3"
+  },
+  "meaning": [
+    {
+      "tag": "noun",
+      "values": [
+        "a human being."
+      ]
+    }
+  ],
+  "examples": [
+    "I am a person.",
+    "There are many people in the world."
+  ]
+},{
+    "word": "sun",
+    "pronunciation": {
+      "ipa": "/sʌn/",
+      "audio": "https://static.sfdict.com/audio/S00/S0074400.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "the star around which the Earth orbits, providing light and heat."
+        ]
+      }
+    ],
+    "examples": [
+      "The sun rises in the east.",
+      "I love the warmth of the sun."
+    ]
+  },
+  {
+    "word": "moon",
+    "pronunciation": {
+      "ipa": "/muːn/",
+      "audio": "https://static.sfdict.com/audio/M00/M0033100.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "the natural satellite of the Earth, visible (chiefly at night) by reflected light from the sun."
+        ]
+      }
+    ],
+    "examples": [
+      "The moon is full tonight.",
+      "We watched the moonrise over the horizon."
+    ]
+  },
+  {
+    "word": "water",
+    "pronunciation": {
+      "ipa": "/ˈwɔːtər/",
+      "audio": "https://static.sfdict.com/audio/W00/W0028700.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "a colorless, transparent, odorless, and tasteless liquid that forms the seas, lakes, rivers, and rain."
+        ]
+      }
+    ],
+    "examples": [
+      "I'm thirsty, can I have some water?",
+      "The water in the lake is crystal clear."
+    ]
+  },
+  {
+    "word": "mountain",
+    "pronunciation": {
+      "ipa": "/ˈmaʊntən/",
+      "audio": "https://static.sfdict.com/audio/M02/M0270500.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "a large natural elevation of the Earth's surface rising abruptly from the surrounding level; a large steep hill."
+        ]
+      }
+    ],
+    "examples": [
+      "The mountain peaks were covered in snow.",
+      "We hiked to the top of the mountain."
+    ]
+  },
+  {
+    "word": "ocean",
+    "pronunciation": {
+      "ipa": "/ˈoʊʃən/",
+      "audio": "https://static.sfdict.com/audio/O00/O0001500.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "a very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically."
+        ]
+      }
+    ],
+    "examples": [
+      "The ocean is teeming with marine life.",
+      "We sailed across the Atlantic Ocean."
+    ]
+  },
+  {
+    "word": "sky",
+    "pronunciation": {
+      "ipa": "/skaɪ/",
+      "audio": "https://static.sfdict.com/audio/S02/S0270400.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "the region of the atmosphere and outer space seen from the Earth."
+        ]
+      }
+    ],
+    "examples": [
+      "The sky was clear and blue.",
+      "The stars were shining in the night sky."
+    ]
+  },
+  {
+    "word": "beach",
+    "pronunciation": {
+      "ipa": "/biːʧ/",
+      "audio": "https://static.sfdict.com/audio/B02/B0222000.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "noun",
+        "values": [
+          "a pebbly or sandy shore, especially by the ocean between high- and low-water marks."
+        ]
+      }
+    ],
+    "examples": [
+      "We spent the day at the beach.",
+      "The beach was crowded with sunbathers."
+    ]
+  }
+
+
+
+
+
+
+
+    ]
+}
+

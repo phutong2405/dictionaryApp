@@ -1,0 +1,383 @@
+{
+    "dictionary": [
+    {
+    "word": "máy tính",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/maytinh.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "thiết bị điện tử để xử lý dữ liệu."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi sử dụng máy tính hàng ngày.",
+      "Máy tính của anh ấy rất mạnh."
+    ]
+  },
+  {
+    "word": "bàn học",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/banhoc.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một mảnh nội thất để học hoặc làm việc."
+        ]
+      }
+    ],
+    "examples": [
+      "Bàn học của tôi được đặt gần cửa sổ.",
+      "Tôi thích làm việc ở bàn học của mình."
+    ]
+  },
+  {
+    "word": "quyển sách",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/quyensach.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một bản in hoặc sách có nhiều trang."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi đã đọc quyển sách này.",
+      "Quyển sách mới ra mắt rất thú vị."
+    ]
+  },
+  {
+    "word": "trường học",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/truonghoc.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "nơi học tập và giảng dạy."
+        ]
+      }
+    ],
+    "examples": [
+      "Trường học tôi đang học ở là rất lớn.",
+      "Trường học đó có nhiều giáo viên tốt."
+    ]
+  },
+  {
+    "word": "hoa",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/hoa.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "cây có hoa và lá, thường có màu sắc đẹp."
+        ]
+      }
+    ],
+    "examples": [
+      "Hoa nở vào mùa xuân.",
+      "Tôi thích nhìn hoa."
+    ]
+  },
+  {
+    "word": "xe hơi",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/xehoi.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "phương tiện di chuyển tự động có bốn bánh."
+        ]
+      }
+    ],
+    "examples": [
+      "Xe hơi của tôi hỏng trên đường cao tốc.",
+      "Người ta thường sử dụng xe hơi để đi lại."
+    ]
+  },
+  {
+    "word": "điện thoại",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/dienthoai.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "thiết bị truyền thông di động."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi đã để lại điện thoại ở nhà.",
+      "Anh ấy đang nói chuyện qua điện thoại."
+    ]
+  },
+  {
+    "word": "biển",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/bien.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một phạm vi rất lớn của nước, đặc biệt là một phần lớn của biển."
+        ]
+      }
+    ],
+    "examples": [
+      "Biển rất đẹp vào mùa hè.",
+      "Chúng tôi tới biển để thư giãn."
+    ]
+  },
+  {
+    "word": "rừng",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/rung.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một khu vực thưa cây hoặc cây rậm."
+        ]
+      }
+    ],
+    "examples": [
+      "Rừng rậm chứa nhiều loài động vật hoang dã.",
+      "Tôi thích đi bộ trong rừng."
+    ]
+  },
+  {
+    "word": "thời tiết",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/thoitiet.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "tình trạng của khí hậu và môi trường xung quanh vào một thời điểm cụ thể."
+        ]
+      }
+    ],
+    "examples": [
+      "Thời tiết hôm nay rất nắng.",
+      "Chúng ta nên kiểm tra thời tiết trước khi ra khỏi nhà."
+    ]
+  },
+  {
+    "word": "hoa sen",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/hoasen.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "loài hoa đẹp mọc trong nước, thường được coi là biểu tượng của sự tinh khiết."
+        ]
+      }
+    ],
+    "examples": [
+      "Hoa sen thường mọc ở ao, hồ và đầm lầy.",
+      "Hoa sen thường được sử dụng trong nghiên cứu Phật giáo."
+    ]
+  },
+  {
+    "word": "áo khoác",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/aokhoac.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một loại áo có nút hoặc khoá, thường được mặc ở ngoài áo thường để giữ ấm."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi cần một chiếc áo khoác ấm áp cho mùa đông.",
+      "Áo khoác của cô ấy rất thời trang."
+    ]
+  },
+  {
+    "word": "quả dứa",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/quadua.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một loại quả có màu vàng cam, có hình dạng đặc biệt."
+        ]
+      }
+    ],
+    "examples": [
+      "Quả dứa ngon và bổ dưỡng.",
+      "Chúng tôi có một cây dứa trong vườn."
+    ]
+  },
+  {
+    "word": "giày thể thao",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/giaythethao.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một loại giày thường được mặc cho hoạt động thể thao và thể dục."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi đã mua một đôi giày thể thao mới.",
+      "Giày thể thao giúp tôi thoải mái khi tập thể dục."
+    ]
+  },
+  {
+    "word": "điều hòa nhiệt độ",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/dieuhao.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "thiết bị để điều chỉnh nhiệt độ trong một không gian, thường tạo ra không khí mát trong mùa nóng."
+        ]
+      }
+    ],
+    "examples": [
+      "Điều hòa nhiệt độ là một phần quan trọng trong mùa hè nhiệt đới.",
+      "Tôi sử dụng điều hòa nhiệt độ để làm mát phòng ngủ."
+    ]
+  },
+  {
+    "word": "áo sơ mi",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/aosomi.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một loại áo có cổ và nút phía trước, thường được mặc trong môi trường công sở hoặc trong dịp trang trọng."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi thường mặc áo sơ mi khi đi làm.",
+      "Áo sơ mi trắng là trang phục truyền thống trong nhiều trường hợp."
+    ]
+  },
+  {
+    "word": "biển cả",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/biencam.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "phạm vi lớn của biển, thường đối diện với đại dương."
+        ]
+      }
+    ],
+    "examples": [
+      "Biển cả rất rộng lớn và sâu thẳm.",
+      "Chúng tôi đi biển cả trong chuyến du lịch hè."
+    ]
+  },
+  {
+    "word": "đồng hồ",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/dongho.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "một thiết bị để đo thời gian."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi luôn mang theo đồng hồ để biết giờ.",
+      "Đồng hồ báo thức giúp tôi thức dậy vào buổi sáng."
+    ]
+  },
+  {
+    "word": "xe bus",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/xebus.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "phương tiện công cộng để chở hành khách bằng đường bộ."
+        ]
+      }
+    ],
+    "examples": [
+      "Tôi sử dụng xe bus hàng ngày để đi làm.",
+      "Xe bus là lựa chọn tiết kiệm và tiện lợi."
+    ]
+  },
+  {
+    "word": "trái cây",
+    "pronunciation": {
+      "ipa": "",
+      "audio": "https://example.com/audio/traicay.mp3"
+    },
+    "meaning": [
+      {
+        "tag": "danh từ",
+        "values": [
+          "các loại thực phẩm từ cây trồng, thường ngon và bổ dưỡng."
+        ]
+      }
+    ],
+    "examples": [
+      "Trái cây giúp tôi duy trì một chế độ ăn uống lành mạnh.",
+      "Chúng tôi thường mua trái cây tại chợ."
+    ]
+  }
+    ]}
